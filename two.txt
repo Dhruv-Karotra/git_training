@@ -1,12 +1,5 @@
 This is two.txt
-aslkdas 
-asd,asd
-asdas
-fas
 
-f
-a
-f
-af
-afa
-d
+
+removed words from here
+
